@@ -2,6 +2,8 @@ package com.ichuvilin.passwordgenerator;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, world!");
+        while (true) {
+            new Menu().mainMenu();
+        }
     }
 }
