@@ -16,7 +16,7 @@ public class Menu {
         String ans = scan.nextLine();
         switch (ans) {
             case "1" -> generatePassword();
-            case "2" -> System.out.println("2");
+            case "2" -> checkPasswordAStrength();
             case "3" -> System.exit(1);
             default -> throw new UnsupportedOperationException("Unsupported options");
         }
@@ -38,5 +38,13 @@ public class Menu {
         scan.nextLine();
         System.out.println(passwd);
     }
+
+    private void checkPasswordAStrength() {
+        System.out.print("Enter you password: ");
+        String password = scan.next();
+        new Password().passwordStrength(password);
+        scan.nextLine();
+    }
+
 
 }

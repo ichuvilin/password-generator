@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7ae5fbb-5193-46f7-b29b-7962cfe12d41" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ichuvilin/passwordgenerator/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ichuvilin/passwordgenerator/Password.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ichuvilin/passwordgenerator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ichuvilin/passwordgenerator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ichuvilin/passwordgenerator/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ichuvilin/passwordgenerator/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ichuvilin/passwordgenerator/Password.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ichuvilin/passwordgenerator/Password.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -80,7 +81,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673020917882</updated>
-      <workItem from="1673020919403" duration="7744000" />
+      <workItem from="1673020919403" duration="7891000" />
+      <workItem from="1673071548178" duration="4227000" />
+      <workItem from="1673079882872" duration="2331000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1673024700924</created>

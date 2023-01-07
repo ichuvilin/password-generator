@@ -3,7 +3,11 @@ package com.ichuvilin.passwordgenerator;
 public class Main {
     public static void main(String[] args) {
         while (true) {
-            new Menu().mainMenu();
+            try {
+                new Menu().mainMenu();
+            } catch (RuntimeException e) {
+                System.err.println(e.getMessage());
+            }
         }
     }
 }
